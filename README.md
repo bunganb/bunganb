@@ -1,5 +1,4 @@
 ### Hi! I'm Bunga Nabila
 <div align="center">
-  <img src="![image](https://github.com/bunganb/bunganb/assets/110469697/5921dd19-403a-4879-b5a2-25ea87e24b2e)
-" width="170" height="170">
+  <img src="https://github.com/bunganb/bunganb/assets/110469697/01f647fe-2786-4c22-a99e-965bfe1c04f2" width="170" height="170">
 </div>

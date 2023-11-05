@@ -1,4 +1,4 @@
-### Hi! I'm Bunga Nabila
+### Hi! I'm Bunga Nabila ✌️
 <div>
-  <img src="https://i.gifer.com/XOsX.gif" width="170" height="170">
+  <img src="https://i.stack.imgur.com/gN4HK.gif" width="170" height="170">
 </div>

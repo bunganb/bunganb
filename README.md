@@ -1,7 +1,7 @@
 <div>
  <img src="https://media.tenor.com/uIAsLAhejd4AAAAC/stick-man-walk.gif" height="130" width="170">
 </div>
-<h1>Hi 👋, I'm Bunga Nabila</h1>
+<h3>Hi 👋, I'm Bunga Nabila</h3>
 <p>A Web Developer and UI/UX Designer who loves beautiful things in the world, especially in graphic design and She loves Coffee! She is also good at managing teams with her experience in several events or projects</p>
 
 - 👨‍💻 All of my projects are available at [https://bunga-nabila.vercel.app/](https://bunga-nabila.vercel.app/)
@@ -15,7 +15,7 @@
 - ⚡ Fun fact **. FYI, her name in English means flower 👀**
 
 <h3 align="left">Connect with me:</h3>
-<br /> <br />
+<br />
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bunga-nabila-31a004269/)](https://www.linkedin.com/in/bunga-nabila-31a004269/)
  [![Instagram](http://img.shields.io/badge/-Instagram-eee?style=flat-square&logo=Instagram&logoColor=E34F26&link=https://www.instagram.com/bunga.dep/)](https://www.instagram.com/bunga.dep/)
@@ -23,8 +23,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
- <br /> <br />
+<br />
+ 
  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)]()
  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]()
  [![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=264de4)]()

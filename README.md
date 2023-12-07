@@ -3,7 +3,7 @@
 <div>
  <img src="https://media.tenor.com/uIAsLAhejd4AAAAC/stick-man-walk.gif" height="130" width="170">
 </div>
-<h3>A Web Developer and UI/UX Designer who loves beautiful things in the world, especially in graphic design and She loves Coffee! She is also good at managing teams with her experience in several events or projects</h3>
+<p>A Web Developer and UI/UX Designer who loves beautiful things in the world, especially in graphic design and She loves Coffee! She is also good at managing teams with her experience in several events or projects</p>
 
 - 👨‍💻 All of my projects are available at [https://bunga-nabila.vercel.app/](https://bunga-nabila.vercel.app/)
 

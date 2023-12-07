@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://read.cv/bunganb](https://read.cv/bunganb)
 
-- ⚡ Fun fact **. FYI, her name in English means flower 👀**
+- ⚡ Fun fact **. Her name in English means flower 👀**
 
 <h3 align="left">Connect with me:</h3>
 <br />

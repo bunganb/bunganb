@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bunganabila1005@gmail.com**
 
-- 📄 Know about my experiences [https://read.cv/bunganb](https://read.cv/bunganb)
+- 📄 Know about my experiences [https://read.cv/bunganb](https://330149693233156096.hello.cv)
 
 - ⚡ Fun fact **. Her name in English means flower 👀**
 

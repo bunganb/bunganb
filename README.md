@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Design & Programming Stuff**
 
-- 📫 How to reach me **bunganabila1005@gmail.com**
+- 📫 How to reach me **hello.bunganb@gmail.com**
 
 - 📄 Know about my experiences [https://read.cv/bunganb](https://330149693233156096.hello.cv)
 
